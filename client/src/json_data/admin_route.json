@@ -1,0 +1,37 @@
+[
+    {
+        "displayText" : "Dashboard",
+        "link" : "dashboard",
+        "icon" : "dashboard"
+    },
+    {
+        "displayText" : "Staff",
+        "link" : "staff",
+        "icon" : "user-account"
+    },
+    {
+        "displayText" : "Class Teacher",
+        "link" : "classTeacher",
+        "icon" : "book"
+    },
+    {
+        "displayText" : "Student",
+        "link" : "student",
+        "icon" : "user-circle"
+    },
+    {
+        "displayText" : "Class And Division",
+        "link" : "classAndDivision",
+        "icon" : "book-open"
+    },
+    {
+        "displayText" : "Enquiries",
+        "link" : "enquiries",
+        "icon" : "book-open"
+    },
+    {
+        "displayText" : "Notice",
+        "link" : "notice",
+        "icon" : "book"
+    }
+]

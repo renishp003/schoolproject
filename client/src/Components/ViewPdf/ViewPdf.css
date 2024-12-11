@@ -1,0 +1,23 @@
+.hoverMenu{
+    background-color: white;
+    box-shadow: 0px 0px 1px 1px lightgray;
+    display: none;
+    position: absolute;
+    right: 20px;
+    top: 20px;
+} 
+.HVR:hover + .hoverMenu{
+    display: inline-block;
+}
+.hoverMenu:hover{
+    display: inline-block;
+}
+.hoverMenu div{
+    padding: 5px 10px;
+    cursor: pointer;
+}
+.hoverMenu div:hover{
+    color: brown;
+    background-color: var(--bg-blue);
+    color: white;
+}

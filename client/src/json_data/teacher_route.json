@@ -1,0 +1,27 @@
+[
+    {
+        "displayText" : "Dashboard",
+        "link" : "dashboard",
+        "icon" : "dashboard"
+    },
+    {
+        "displayText" : "Your Class",
+        "link" : "yourClass",
+        "icon" : "user-circle"
+    },
+    {
+        "displayText" : "Your Jobs",
+        "link" : "yourJobs",
+        "icon" : "user-circle"
+    },
+    {
+        "displayText" : "Assignments",
+        "link" : "assignment",
+        "icon" : "user-circle"
+    },
+    {
+        "displayText" : "Notice",
+        "link" : "notice",
+        "icon" : "user-circle"
+    }
+]

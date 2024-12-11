@@ -1,0 +1,65 @@
+.sidebar{
+    background-color: var(--bg-dark-blue);
+    min-height: 100vh;
+    height: 100%;
+}
+
+.menu{
+    color: rgba(255, 255, 255, 0.849);
+}
+.menu a{
+    color: white;
+    text-decoration: none;
+    /* background-color: rgba(240, 248, 255, 0.116); */
+    padding: 7px 20px;
+    width: 80%;
+    display: block;
+    margin: 5px auto;
+    font-size: 14px;
+    border-radius: 30px;
+    white-space: nowrap;
+}
+.menu a:hover{
+    background-color: rgba(240, 248, 255, 0.116);
+    /* background-color: #f08a1d56; */
+    color: white;
+}
+.menu  .active{
+    background-color: rgba(240, 248, 255, 0.116);
+    color: #F08A1D;
+}
+.logout_btn{
+    padding: 7px 20px;
+    width: fit-content;
+    margin: 5px auto;
+    margin-left: 10%;
+    font-size: 14px;
+    border-radius: 30px;
+    background-color: #F08A1D;
+    color: black;
+    cursor: pointer;
+}
+
+.swal2-default-outline{
+    box-shadow: none !important;
+}
+
+.responsive_menu a{
+    color: white;
+    text-decoration: none;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    border-radius: 50%;
+    white-space: nowrap;
+    justify-content: center;
+    align-items: center;
+}
+.responsive_menu  a:hover{
+    background-color: rgba(240, 248, 255, 0.116);
+    color: white;
+}
+.responsive_menu .active{
+    background-color: rgba(240, 248, 255, 0.116);
+    color: #F08A1D;
+}

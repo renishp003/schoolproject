@@ -1,0 +1,17 @@
+[
+    {
+        "displayText" : "Dashboard",
+        "link" : "dashboard",
+        "icon" : "dashboard"
+    },
+    {
+        "displayText" : "Branch",
+        "link" : "branch",
+        "icon" : "buildings"
+    },
+    {
+        "displayText" : "Activity",
+        "link" : "activity",
+        "icon" : "book"
+    }
+]
